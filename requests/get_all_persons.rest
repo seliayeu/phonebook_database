@@ -1,0 +1,35 @@
+POST http://localhost:3001/api/persons/
+Content-Type: application/json
+
+{
+    "name": "yung henry the ninth",
+    "number": "2184129841247y89129"
+}
+
+###
+
+POST http://localhost:3001/api/persons/
+Content-Type: application/json
+
+{
+    "name": "yung henry the ninth",
+    "number": "2184129841247y89129"
+}
+
+###
+
+POST http://localhost:3001/api/persons/
+Content-Type: application/json
+
+{
+    "number": "2184129841247y89129"
+}
+
+###
+
+POST http://localhost:3001/api/persons/
+Content-Type: application/json
+
+{
+    "name": "2184129841247y89129"
+}
